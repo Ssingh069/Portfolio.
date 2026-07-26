@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global font is set in retro.css using Space Grotesk + Archivo Black + JetBrains Mono. */
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Hide scrollbar utility (kept for components that use it) */
+.scrollbar-hide::-webkit-scrollbar { display: none; }
+.scrollbar-hide { scrollbar-width: none; }
