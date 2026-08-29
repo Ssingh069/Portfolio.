@@ -14,7 +14,7 @@ const contactInfo = [
   {
     icon: FaPhoneAlt,
     label: "Phone",
-    value: "+91-8368924905",
+    value: "+91-7520275692",
     color: "bg-retro-yellow",
   },
   {
